@@ -83,9 +83,9 @@ npm run dev
 
 ---
 
-## Screenshots / Demo
+## Screenshots
 
-Add screenshots here or provide a Loom/YouTube link to a 1–2 minute demo.
+https://drive.google.com/file/d/1pWCSSzxSuDrRDGe0mlakbcNaznyO6Kvc/view?usp=sharing
 
 ---
 
